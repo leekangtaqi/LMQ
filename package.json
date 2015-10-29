@@ -1,0 +1,7 @@
+{
+  "name": "LMQ",
+  "description": "a simple message queue",
+  "author": "Rick Lee",
+  "homepage": "https://github.com/leekangtaqi/LMQ",
+  "version": "0.0.1"
+}
