@@ -1,4 +1,4 @@
-# LMQ
+# l-mq
 a lean message queue
 
 ## General

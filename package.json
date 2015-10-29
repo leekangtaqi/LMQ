@@ -1,7 +1,7 @@
 {
-  "name": "LMQ",
-  "description": "a simple message queue",
+  "name": "l-mq",
+  "description": "a lean message queue",
   "author": "Rick Lee",
-  "homepage": "https://github.com/leekangtaqi/LMQ",
+  "homepage": "https://github.com/leekangtaqi/l-MQ",
   "version": "0.0.1"
 }
