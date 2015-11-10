@@ -3,5 +3,8 @@
   "description": "a lean message queue",
   "author": "Rick Lee",
   "homepage": "https://github.com/leekangtaqi/l-MQ",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "devDependencies": {
+    "chai": "*"
+  }
 }
